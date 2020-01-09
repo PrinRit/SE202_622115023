@@ -19,7 +19,7 @@
         </p>
         </h2>
         
-        <img src="Plook.jpg.jpg">
+        <img src="plook.jpg">
         
        
     </div>
